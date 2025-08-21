@@ -2,8 +2,7 @@
 
 int main(int argc, char *argv[])
 {
-	std::cout << "gmail\n";	
-	std::cout << "john update\n";	
+	std::cout << "outrageous\n";	
     return 0;
 }
 
