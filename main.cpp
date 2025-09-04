@@ -1,6 +1,6 @@
 int main(int argc, char *argv[])
 {
-  //walnuts are being added to the recipe
+  // local walnut update  
   std::cout << "yahooMail update";	
   return 0;
 }
